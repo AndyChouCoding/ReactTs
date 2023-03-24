@@ -1,111 +1,73 @@
 {
-  "posts": [
+  "post": [
     {
       "id": 1,
-      "location": "布魯斯前端",
-      "account": "bruce_1234",
-      "avatar": "/images/avatars/a1.png",
+      "location": "Taipei",
+      "account": "person_a1",
+      "avater": "/images/avaters/a1.png",
       "photo": "/images/posts/main1.png",
-      "likes": 999,
-      "description": "我的老天鵝！",
-      "hashTags": "#鵝鵝",
-      "createTime": "1 HOURS AGO"
+      "likes": 98,
+      "description": "OMG",
+      "hashTags": "OHOH",
+      "createTime": "10 hours ago"
     },
     {
       "id": 2,
-      "location": "7-11你好門市",
-      "account": "__0831_xxx__",
-      "avatar": "/images/avatars/a2.png",
+      "location": "Taipei2",
+      "account": "person_a2",
+      "avater": "/images/avaters/a2.png",
       "photo": "/images/posts/main2.png",
-      "likes": 333,
-      "description": "我的老天鵝！",
-      "hashTags": "#鵝鵝",
-      "createTime": "5 HOURS AGO"
+      "likes": 2,
+      "description": "OMG2",
+      "hashTags": "OHOH2",
+      "createTime": "2 hours ago"
     },
     {
-      "id": 3,
-      "location": "Taipei",
-      "account": "gogogo_0214",
-      "avatar": "/images/avatars/a3.png",
-      "photo": "/images/posts/main3.png",
-      "likes": 777,
-      "description": "我的老天鵝！",
-      "hashTags": "#鵝鵝",
-      "createTime": "6 HOURS AGO"
-    },
-    {
-      "id": 4,
-      "location": "信義區",
-      "account": "zoe_0000",
-      "avatar": "/images/avatars/a4.png",
-      "photo": "/images/posts/main4.png",
-      "likes": 824,
-      "description": "我的老天鵝！",
-      "hashTags": "#鵝鵝",
-      "createTime": "7 HOURS AGO"
-    },
-    {
-      "id": 5,
-      "location": "南港區",
-      "account": "zoe_0000",
-      "avatar": "/images/avatars/a5.png",
-      "photo": "/images/posts/main5.png",
-      "likes": 98,
-      "description": "我的老天鵝！",
-      "hashTags": "#鵝鵝",
-      "createTime": "10 HOURS AGO"
-    }
+        "id": 3,
+        "location": "Taipei3",
+        "account": "person_a3",
+        "avater": "/images/avaters/a3.png",
+        "photo": "/images/posts/main3.png",
+        "likes": 3,
+        "description": "OMG3",
+        "hashTags": "OHOH3",
+        "createTime": "3 hours ago"
+      },
+      {
+        "id": 4,
+        "location": "Taipei4",
+        "account": "person_a4",
+        "avater": "/images/avaters/a4.png",
+        "photo": "/images/posts/main4.png",
+        "likes": 4,
+        "description": "OMG4",
+        "hashTags": "OHOH4",
+        "createTime": "4 hours ago"
+      },
+      {
+        "id": 5,
+        "location": "Taipei5",
+        "account": "person_a5",
+        "avater": "/images/avaters/a5.png",
+        "photo": "/images/posts/main5.png",
+        "likes": 5,
+        "description": "OMG5",
+        "hashTags": "OHOH5",
+        "createTime": "5 hours ago"
+      }
+      
   ],
   "stories": [
-    {
-      "id": 1,
-      "name": "bruce_fe",
-      "avatar": "/images/avatars/a1.png"
-    },
-    {
-      "id": 2,
-      "name": "max",
-      "avatar": "/images/avatars/a2.png"
-    },
-    {
-      "id": 3,
-      "name": "fm",
-      "avatar": "/images/avatars/a3.png"
-    },
-    {
-      "id": 4,
-      "name": "joanne",
-      "avatar": "/images/avatars/a4.png"
-    },
-    {
-      "id": 5,
-      "name": "focus",
-      "avatar": "/images/avatars/a5.png"
-    },
-    {
-      "id": 6,
-      "name": "louis",
-      "avatar": "/images/avatars/a6.png"
-    },
-    {
-      "id": 7,
-      "name": "alvin",
-      "avatar": "/images/avatars/a7.png"
-    },
-    {
-      "id": 8,
-      "name": "grace",
-      "avatar": "/images/avatars/a8.png"
-    },
-    {
-      "id": 9,
-      "name": "rance",
-      "avatar": "/images/avatars/a9.png"
-    },
-    {
-      "id": 10,
-      "name": "bruce_fe",
-      "avatar": "/images/avatars/a10.png"
-    }
+    { "id": 1, "name": "Andy", "avatar": "/images/avatars/a1.png" },
+    { "id": 2, "name": "Andy2", "avatar": "/images/avatars/a2.png" },
+    { "id": 3, "name": "Andy3", "avatar": "/images/avatars/a3.png" },
+    { "id": 4, "name": "Andy4", "avatar": "/images/avatars/a4.png" },
+    { "id": 5, "name": "Andy5", "avatar": "/images/avatars/a5.png" },
+    { "id": 6, "name": "Andy6", "avatar": "/images/avatars/a6.png" },
+    { "id": 7, "name": "Andy7", "avatar": "/images/avatars/a7.png" },
+    { "id": 8, "name": "Andy8", "avatar": "/images/avatars/a8.png" },
+    { "id": 9, "name": "Andy9", "avatar": "/images/avatars/a9.png" },
+    { "id": 10, "name": "Andy10", "avatar": "/images/avatars/a10.png" }
   ]
+
 }
